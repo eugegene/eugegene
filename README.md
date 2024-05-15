@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Evhen!
+- 👋 Hi, my name is Yevhenii!
 - 👀 I’m interested in game dev, mobile dev. (Writing and editing texts; photo/video -editing btw).
 - 🌱 I’m currently learning C#, OOP, English.
 - 📫 You can reach me only here (for that moment)
